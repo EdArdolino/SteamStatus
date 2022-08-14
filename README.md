@@ -4,7 +4,7 @@ About: SteamStatus is a simple python bot that allows the user to provide a Stea
 
 How to use:
 1. Clone the repo: `git clone https://github.com/EdArdolino/SteamStatus.git`
-2. Move into the `SteamStatus` directory
+2. Move into the `SteamStatus` directory\
 	i. `cd SteamStatus`
 3. Run SteamStatus.py: `python SteamStatus.py`
 4. You will be prompted to put in a Steam profile link, input a link and press `Enter` on your keyboard
